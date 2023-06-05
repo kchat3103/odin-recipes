@@ -1,0 +1,30 @@
+#header{
+    text-align: center;
+    background-color: rgb(205, 167, 167);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    height: 450px;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+}
+
+li{
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-weight: 300;
+}
+
+h4{
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
